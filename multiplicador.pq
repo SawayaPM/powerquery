@@ -1,2 +1,2 @@
 (numero as number) =>
-numero * 2
+numero * 4
